@@ -14,3 +14,5 @@ A beginner-friendly chess game where you play against an AI with an 850 ELO rati
 3. Run Main.py
    ```sh
    python Main.py
+
+**Screenshots:**
